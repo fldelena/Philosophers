@@ -1,5 +1,5 @@
 # Philosophers
 
-42 project about inter-process communication. A program that can monitor multiple instances of itself, either processes or threads, using semaphores or mutexes.
+Проект школы 42 о межпотоковом взаимодействии. Программа, которая может контролировать несколько своих экземпляров (потоков), используя семафоры или мьютексы.
 
-In computer science, the dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them.
+В информатике задача об обедающих философов - это пример проблемы, часто используемый при разработке программ с параллельно работающими алгоритмоми разных потоков,  для иллюстрации проблем синхронизации и методов их решения.
